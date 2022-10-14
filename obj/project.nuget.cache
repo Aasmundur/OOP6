@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "oP6Ms3w761A35zWRUqoYNVgo9+SS2QMw075vjqPXxpDD7hYlyXvyVpoA09IMrQWJQ0I70Y+vR16PmPaccpjoXg==",
+  "dgSpecHash": "BYT3HsR6eZYy2VkrCEi5Eyc7d5gAbtl6t/mSC6YeTrVISDPaJJDgqAEhaOcNiuhaMnEg6DHFHGyTEra0NPHLgg==",
   "success": true,
-  "projectFilePath": "C:\\Tidligere_skrivebord\\UNI_SOFTWARE\\3. semester\\OOP\\sixthLec\\sixthLec.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/flcky98/OneDrive/3. Semester/2. COURSES/2. OOP/06. Generic Types/OOP6/sixthLec.csproj",
+  "expectedPackageFiles": [
+    "/home/flcky98/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.10/microsoft.aspnetcore.app.ref.6.0.10.nupkg.sha512"
+  ],
   "logs": []
 }
