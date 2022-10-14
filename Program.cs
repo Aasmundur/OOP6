@@ -5,6 +5,8 @@
         static void Main(string[] args)
         {
             //opg1a();
+            //opg2();
+            opg3();
             #region opg1
             void opg1a(){
                 List<int> fancyList = new List<int>{1, 2, 3, 4, 5 ,6 ,7};
@@ -24,11 +26,9 @@
                 }
 
 
-            //opg2();
 
             #endregion
 
-            opg3();
             void opg3()
             {
                 Dict<int,string> dict = new Dict<int,string>();
@@ -38,14 +38,17 @@
                 dict.Put(3, "Stine");
                 dict.Put(3, "Lone");
                 dict.WritePairs();
+                Console.WriteLine();
                 int Key = 4;
+                int Key0 = 3;
                 try
                 {
-                    Console.WriteLine(dict.Get(Key));
+                    Console.WriteLine($"Value {Key0}: {dict.Get(Key0)}");
+                    Console.WriteLine($"Value {Key}: {dict.Get(Key)}");
                 }
                 catch (KeyNotFoundException)
                 {
-                    Console.WriteLine($"error: Key ({Key}) not found.");
+                    Console.WriteLine($"error: Key {Key} not found.");
                 }
             }
         }
