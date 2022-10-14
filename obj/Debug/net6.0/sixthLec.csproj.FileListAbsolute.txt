@@ -1,0 +1,15 @@
+C:\Tidligere_skrivebord\UNI_SOFTWARE\3. semester\OOP\sixthLec\bin\Debug\net6.0\sixthLec.exe
+C:\Tidligere_skrivebord\UNI_SOFTWARE\3. semester\OOP\sixthLec\bin\Debug\net6.0\sixthLec.deps.json
+C:\Tidligere_skrivebord\UNI_SOFTWARE\3. semester\OOP\sixthLec\bin\Debug\net6.0\sixthLec.runtimeconfig.json
+C:\Tidligere_skrivebord\UNI_SOFTWARE\3. semester\OOP\sixthLec\bin\Debug\net6.0\sixthLec.dll
+C:\Tidligere_skrivebord\UNI_SOFTWARE\3. semester\OOP\sixthLec\bin\Debug\net6.0\sixthLec.pdb
+C:\Tidligere_skrivebord\UNI_SOFTWARE\3. semester\OOP\sixthLec\obj\Debug\net6.0\sixthLec.csproj.AssemblyReference.cache
+C:\Tidligere_skrivebord\UNI_SOFTWARE\3. semester\OOP\sixthLec\obj\Debug\net6.0\sixthLec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tidligere_skrivebord\UNI_SOFTWARE\3. semester\OOP\sixthLec\obj\Debug\net6.0\sixthLec.AssemblyInfoInputs.cache
+C:\Tidligere_skrivebord\UNI_SOFTWARE\3. semester\OOP\sixthLec\obj\Debug\net6.0\sixthLec.AssemblyInfo.cs
+C:\Tidligere_skrivebord\UNI_SOFTWARE\3. semester\OOP\sixthLec\obj\Debug\net6.0\sixthLec.csproj.CoreCompileInputs.cache
+C:\Tidligere_skrivebord\UNI_SOFTWARE\3. semester\OOP\sixthLec\obj\Debug\net6.0\sixthLec.dll
+C:\Tidligere_skrivebord\UNI_SOFTWARE\3. semester\OOP\sixthLec\obj\Debug\net6.0\refint\sixthLec.dll
+C:\Tidligere_skrivebord\UNI_SOFTWARE\3. semester\OOP\sixthLec\obj\Debug\net6.0\sixthLec.pdb
+C:\Tidligere_skrivebord\UNI_SOFTWARE\3. semester\OOP\sixthLec\obj\Debug\net6.0\sixthLec.genruntimeconfig.cache
+C:\Tidligere_skrivebord\UNI_SOFTWARE\3. semester\OOP\sixthLec\obj\Debug\net6.0\ref\sixthLec.dll
