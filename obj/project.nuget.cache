@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BYT3HsR6eZYy2VkrCEi5Eyc7d5gAbtl6t/mSC6YeTrVISDPaJJDgqAEhaOcNiuhaMnEg6DHFHGyTEra0NPHLgg==",
+  "dgSpecHash": "X7llOaRjguvqC5bYF+AuAD9ujOozVRtubvGjMGMrlmVL3L8Rl1edWyDc9XJS2O1v9G29D+Gz3e/FXcdme9JNag==",
   "success": true,
-  "projectFilePath": "/home/flcky98/OneDrive/3. Semester/2. COURSES/2. OOP/06. Generic Types/OOP6/sixthLec.csproj",
-  "expectedPackageFiles": [
-    "/home/flcky98/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.10/microsoft.aspnetcore.app.ref.6.0.10.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\OOP6\\sixthLec.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

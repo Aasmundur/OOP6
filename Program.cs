@@ -1,38 +1,10 @@
 ﻿namespace sixthLec
 {
-    public class Pair<T1,T2>
-    {
-        public Pair(T1 val1, T2 val2)
-        {
-            value1 = val1;
-            value2 = val2;
-        }
-        public T1 value1 { get;  }
-        public T2 value2 { get; }
-
-
-
-        public (T2, T1) swap()
-        {
-            return (value2, value1);
-        }
-
-        public (C, T2) setFst<C>(C val)
-        {
-            return (val, value2);
-        }
-
-        public (T1, C) setSnd<C>(C val)
-        {
-            return (value1, val);
-        }
-
-    }
     internal class Program
     {
         static void Main(string[] args)
         {
-            opg1a();
+            //opg1a();
             #region opg1
             void opg1a(){
                 List<int> fancyList = new List<int>{1, 2, 3, 4, 5 ,6 ,7};
@@ -52,9 +24,30 @@
                 }
 
 
-            opg2();
+            //opg2();
 
             #endregion
+
+            opg3();
+            void opg3()
+            {
+                Dict<int,string> dict = new Dict<int,string>();
+                dict.Put(0,"Thomas");
+                dict.Put(1, "Jan");
+                dict.Put(2, "Timothy");
+                dict.Put(3, "Stine");
+                dict.Put(3, "Lone");
+                dict.WritePairs();
+                int Key = 4;
+                try
+                {
+                    Console.WriteLine(dict.Get(Key));
+                }
+                catch (KeyNotFoundException)
+                {
+                    Console.WriteLine($"error: Key ({Key}) not found.");
+                }
+            }
         }
 
     }
